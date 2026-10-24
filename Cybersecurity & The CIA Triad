@@ -1,0 +1,35 @@
+Cybersecurity & The CIA Triad
+
+
+​A foundational breakdown of cybersecurity principles and the CIA Triad framework.
+
+
+​📌 Introduction
+
+​Cybersecurity is the practice of protecting digital systems, networks, and sensitive data from malicious attacks. In the professional world, designing robust security architectures relies on a core foundational model: The CIA Triad.
+​This model serves as the primary framework for constructing security policies, risk assessments, and access controls.
+
+​🔑 Detailed Content: The CIA Triad
+
+​The triad is composed of three interconnected core principles:
+
+​🔒 Confidentiality — Ensures that sensitive information and private data are accessible only to authorized individuals or systems.
+
+​🛡️ Integrity — Guarantees that data remains accurate, reliable, and untampered with throughout its lifecycle.
+​
+⚡ Availability — Ensures that systems, networks, and data are accessible to authorized users whenever needed.
+
+​🌐 Real-World Examples
+
+PrincipleDescriptionReal-World Application
+ConfidentialityRestricting Unauthorized AccessBanking Systems: Financial institutions utilize end-to-end encryption and multi-factor authentication (MFA) so only account owners can view balances and process transactions.
+IntegrityPreventing Data TamperingFile Downloads: Developers and users verify cryptographic hashes or digital signatures to ensure a file hasn't been altered or injected with malware.
+AvailabilityMaintaining System UptimeWeb Hosting: Cloud providers deploy redundant backup servers and load balancers to keep websites operational during traffic spikes or DDoS attacks.
+
+🎯 Conclusion
+
+​Building and maintaining trust in digital environments depends directly on how effectively security teams balance Confidentiality, Integrity, and Availability.
+​💡 Personal Understanding
+
+​"Mastering these core concepts is the essential first step toward becoming a skilled cybersecurity professional capable of solving real-world security challenges."
+​Created for documentation and learning purposes.
